@@ -1,0 +1,5 @@
+Hello world my name is Andrew Tsegaye and I am the best at making tutorials!
+This is another test block of text for this project!
+Andrew is the best developer on the entire planet.
+Okay this is just another test to make sure the app is working okay!
+The quick brown fox jumped over the rest of the sentence that I forget.

@@ -22,4 +22,4 @@ If you want to use your own phrases for the game, simply add them to the text.tx
 ## Acknowledgements
 This game was created by [Your Name Here]. It was inspired by similar typing games available online.
 
-By programmer ![Andrew Tsegaye](https://github.com/Andrew-Tsegaye)
+By programmer [Andrew Tsegaye](https://github.com/Andrew-Tsegaye)
